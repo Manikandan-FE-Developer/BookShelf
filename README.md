@@ -33,7 +33,7 @@ cd bookshelf-website
 ```
 
 3. Install dependencies:
-4. 
+
 ```bash
 npm install
 ```
