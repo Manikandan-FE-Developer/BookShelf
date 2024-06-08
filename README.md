@@ -32,11 +32,12 @@ git clone https://github.com/your-username/bookshelf-website.git
 cd bookshelf-website
 ```
 
-## 3. Install dependencies:
+3. Install dependencies:
 
 ```bash
 npm install
 ```
+
 ```bash
 npm install react-router-dom
 ```
